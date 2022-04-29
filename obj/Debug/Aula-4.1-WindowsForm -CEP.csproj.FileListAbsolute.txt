@@ -1,0 +1,11 @@
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\CsharpIntermediario\Csharp-Intermediario\Aula-4.1-WindowsForm -CEP\bin\Debug\Aula-4.1-WindowsForm -CEP.exe.config
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\CsharpIntermediario\Csharp-Intermediario\Aula-4.1-WindowsForm -CEP\bin\Debug\Aula-4.1-WindowsForm -CEP.exe
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\CsharpIntermediario\Csharp-Intermediario\Aula-4.1-WindowsForm -CEP\bin\Debug\Aula-4.1-WindowsForm -CEP.pdb
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\CsharpIntermediario\Csharp-Intermediario\Aula-4.1-WindowsForm -CEP\obj\Debug\Aula-4.1-WindowsForm -CEP.csproj.AssemblyReference.cache
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\CsharpIntermediario\Csharp-Intermediario\Aula-4.1-WindowsForm -CEP\obj\Debug\Aula-4.1-WindowsForm -CEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\CsharpIntermediario\Csharp-Intermediario\Aula-4.1-WindowsForm -CEP\obj\Debug\Aula_4._1_WindowsForm__CEP.Form1.resources
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\CsharpIntermediario\Csharp-Intermediario\Aula-4.1-WindowsForm -CEP\obj\Debug\Aula_4._1_WindowsForm__CEP.Properties.Resources.resources
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\CsharpIntermediario\Csharp-Intermediario\Aula-4.1-WindowsForm -CEP\obj\Debug\Aula-4.1-WindowsForm -CEP.csproj.GenerateResource.cache
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\CsharpIntermediario\Csharp-Intermediario\Aula-4.1-WindowsForm -CEP\obj\Debug\Aula-4.1-WindowsForm -CEP.csproj.CoreCompileInputs.cache
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\CsharpIntermediario\Csharp-Intermediario\Aula-4.1-WindowsForm -CEP\obj\Debug\Aula-4.1-WindowsForm -CEP.exe
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\CsharpIntermediario\Csharp-Intermediario\Aula-4.1-WindowsForm -CEP\obj\Debug\Aula-4.1-WindowsForm -CEP.pdb
